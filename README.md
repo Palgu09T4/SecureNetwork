@@ -47,12 +47,14 @@ Built using **Django** + **Chart.js** + **Bootstrap**:
 
 ### Deployment
 - Deployed using **Render (Free Tier)** with full online functionality.
-"""
 
 🔗  
  **Best Algorithm Chosen**: Random Forest  
  **Notebook**: Notebook.ipynb`
 
+### RESTful API endpoints using Django REST Framework:
+  - `POST /api/predict/manual/` – Manual JSON input for a single prediction
+  - `POST /api/predict/csv/` – Upload CSV, receive predictions + download link
 ---
 
 ## Machine Learning Models Used
@@ -110,7 +112,7 @@ Includes:
 | Layer           | Tech Used                                          |
 | --------------- | -------------------------------------------------- |
 | Frontend        | HTML, CSS, Bootstrap, Chart.js                     |
-| Backend         | Django, Django REST Framework                      |
+| Backend         | Django, Django REST Framework(APIs)                     |
 | ML Frameworks   | Scikit-learn, Pandas, NumPy        |
 | Data Collection | **Wireshark** (for capturing real network traffic) |
 | Notebook Env    | Jupyter Notebook                                   |
