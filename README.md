@@ -137,7 +137,7 @@ Includes:
 
 👉 [NetDetectAI-DOS Live App](https://netdetectai-dos.onrender.com)
 
-> ⚠️ *Note: The app may take **20–30 seconds to load** on first visit due to Render's free-tier cold start.*
+> ⚠️ *Note: The app may take **few minutes to load** on first visit due to Render's free-tier cold start.*
 
 
 
