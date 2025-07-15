@@ -129,9 +129,16 @@ Includes:
 
 
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://netdetectai-dos.onrender.com)
 
-> ⚠️ *Note: This app is hosted on Render's free tier. It might take few minutes to load initially due to server cold start.*
+
+
+
+## 🔗 Live Demo
+
+👉 [NetDetectAI-DOS Live App](https://netdetectai-dos.onrender.com)
+
+> ⚠️ *Note: The app may take **20–30 seconds to load** on first visit due to Render's free-tier cold start.*
+
 
 
 
