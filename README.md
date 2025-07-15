@@ -129,6 +129,9 @@ Includes:
 
 
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://netdetectai-dos.onrender.com)
+
+> ⚠️ *Note: This app is hosted on Render's free tier. It might take few minutes to load initially due to server cold start.*
 
 
 
