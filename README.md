@@ -1,4 +1,4 @@
-# NetDetectAI-DOS
+# SecureNetwork
 
 **AI-Powered DoS Attack Detection System**
 
